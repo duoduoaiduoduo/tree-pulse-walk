@@ -1,0 +1,4 @@
+interface:
+  display_name: "树脉 · 林荫步道"
+  short_description: "为林荫步道实拍制作沿树皮下行的光脉冲、地面回色和同步声效"
+  default_prompt: "用 $tree-pulse-walk 处理这段林荫步道实拍，先选树和落点，做一段光沿树皮下行、击中地面后回色的预览。"
